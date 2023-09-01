@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "httpserver", "httpserver\httpserver.csproj", "{4B0D0AE0-210C-47A3-ADE9-80374BC3B270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B0D0AE0-210C-47A3-ADE9-80374BC3B270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0D0AE0-210C-47A3-ADE9-80374BC3B270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0D0AE0-210C-47A3-ADE9-80374BC3B270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0D0AE0-210C-47A3-ADE9-80374BC3B270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {290AEF43-B1C5-4A32-922B-29D3F6F5B9AD}
+	EndGlobalSection
+EndGlobal
